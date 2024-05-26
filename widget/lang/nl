@@ -1,0 +1,20 @@
+export default {
+  powered_by: 'Reacties mogelijk gemaakt door Cusdis',
+  post_comment: 'Versturen',
+  loading: 'Aan het laden',
+
+  // comment
+  email: 'E-mailadres (optioneel)',
+  nickname: 'Naam',
+  reply_placeholder: 'Reactie...',
+  reply_btn: 'Reactie',
+  sending: 'versturen...',
+
+  // reply
+  mod_badge: 'MOD',
+  content_is_required: 'Een reactie is verplicht',
+  nickname_is_required: 'Een naam is verplicht',
+
+  comment_has_been_sent:
+    'Jouw reactie is verstuurd en wacht op goedkeuring.',
+}
